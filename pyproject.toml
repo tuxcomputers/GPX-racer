@@ -1,0 +1,7 @@
+[project]
+name = "GPX racer"
+version = "0.1.0"
+description = "Race 2 uploaded GPX files on a map"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

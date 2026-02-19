@@ -1,0 +1,17 @@
+Build a user friendly web UI to navigate the airports and routes dataset:
+https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
+https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat
+
+On startup this data is loaded.
+
+I want to be able to view the raw data in a table view, give me a selector to each dataset,
+with the ability to search by selecting a field and entering a value.
+
+Provide a pre-selected limit of 200 records, but the ability to change it, or remove the limit entirely.
+
+Provide the ability to sort the dataset by any field.
+
+Provide the ability to download the dataset as a CSV file.
+
+Have a second page that lets you search for all the airports you can reach from a given airport with a single stopover.
+
