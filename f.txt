@@ -24,3 +24,4 @@ Allow that stopped period of time to be an input on the race page
 
 When the dots are racing do not refresh the map itself just the position of the dots
 
+On the summary of the routes add the time it takes formthe start of the route to the end
