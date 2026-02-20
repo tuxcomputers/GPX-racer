@@ -4,7 +4,7 @@ The route in the files are then shown on a map in different colours.
 
 A dot is plotted on the route in the same colour as the route
 
-When the user hits go the two dots are moved along the route as a rate that it will take them 1 minute to reach the end of the route
+When the user hits go the two dots are moved along the route at a rate that it will take the fastest route 1 minute to reach the end
 
 The user has a slider that allows them to move both dots at the same time.
 
