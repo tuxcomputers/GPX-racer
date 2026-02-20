@@ -1,17 +1,16 @@
-Build a user friendly web UI to navigate the airports and routes dataset:
-https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
-https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat
+Build a user friendly web UI that allows the user to upload two GPX files
 
-On startup this data is loaded.
+The route in the files are then shown on a map in different colours.
 
-I want to be able to view the raw data in a table view, give me a selector to each dataset,
-with the ability to search by selecting a field and entering a value.
+A dot is plotted on the route in the same colour as the route
 
-Provide a pre-selected limit of 200 records, but the ability to change it, or remove the limit entirely.
+When the user hits go the two dots are moved along the route as a rate that it will take them 1 minute to reach the end of the route
 
-Provide the ability to sort the dataset by any field.
+The user has a slider that allows them to move both dots at the same time.
 
-Provide the ability to download the dataset as a CSV file.
+Each route also has am individual slider that advances that dot
 
-Have a second page that lets you search for all the airports you can reach from a given airport with a single stopover.
+The map page will have an option to put the two dots in the same location as early along the router as possible.
+
+The map will allow the user to start the race from the location of the dot on either route. The user moves the dot on that route and then clicks a button "Start race from here", the other dot is moved to as close as possible to that location
 
