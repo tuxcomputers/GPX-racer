@@ -14,3 +14,13 @@ The map page will have an option to put the two dots in the same location as ear
 
 The map will allow the user to start the race from the location of the dot on either route. The user moves the dot on that route and then clicks a button "Start race from here", the other dot is moved to as close as possible to that location
 
+Use the gpx files in the gpx_files as reference.
+
+Have the map zoomed out so that the entire routes are visible
+
+If there is period of time the location is within a 50 meter radius ignore the stopped time
+
+Allow that stopped period of time to be an input on the race page
+
+When the dots are racing do not refresh the map itself just the position of the dots
+
